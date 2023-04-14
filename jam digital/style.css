@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Tillana:wght@400;600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Tillana', cursive;
+}
+
+body {
+    background-image: url(gambar/paint\ art2.png);
+    background-size: cover;
+}
+
+#test {
+    text-align: center;
+    color: #454545;
+    letter-spacing: 2px;
+    font-size: 70px;
+    text-shadow: 5px 3px 25px #454545;
+    padding: 8px;
+    border-radius: 30px;
+}
+
+#ttt {
+    font-weight: bold;
+    font-size: 20px;
+    color: #454545;
+    text-align: center;
+    text-shadow: 10px 13px 30px #454545;
+    padding: 1px;
+    border-radius: 30px;
+}
+
+#all {
+    background-image: url(gambar/paint\ art2.png);
+    background-size: cover;
+    margin: 250px auto;
+    width: 50%;
+    padding: 5px;
+    border: 4px solid #454545;
+    border-radius: 10px;
+}
